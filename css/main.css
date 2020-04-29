@@ -1,10 +1,16 @@
-header{
-    background-color: rgb(65, 64, 64);
-}
+/*my name in navbar*/
 .name{
     color: aliceblue;
     font-family: 'Manrope', sans-serif;;
 }
-.nav-item{
+.nav-link{
     color: azure;
+}
+.nav-pills > .active > a{
+    background-color: rgb(243, 243, 243);
+    color: black;
+}
+.nav-link:hover{
+    color: white;
+    background-color: dimgray;
 }
