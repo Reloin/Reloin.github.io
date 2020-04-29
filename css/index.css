@@ -1,6 +1,21 @@
-.lead{
+.intro{
+    font-size: 3.2rem;
+    margin-bottom: 1rem;
+}
+.subtext{
     font-size: 1.1rem !important;
+    margin-bottom: 1rem;
 }
 .btn{
     margin: .3rem !important;
+}
+span.line {
+    display: inline-block;
+}
+strong{
+    font-family: 'Fredoka One', cursive;
+}
+.container{
+    margin-top: 2.7rem;
+    
 }
