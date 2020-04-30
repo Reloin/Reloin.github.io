@@ -5,6 +5,7 @@
 }
 .nav-link{
     color: azure;
+    margin-inline: 0.2rem;
 }
 .nav-pills > .active > a{
     background-color: rgb(243, 243, 243);
