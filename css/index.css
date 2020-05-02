@@ -16,6 +16,18 @@ strong{
     font-family: 'Fredoka One', cursive;
 }
 .container{
-    margin-top: 2.7rem;
-    
+    margin-top: 2.7rem;   
+}
+.sector{
+    padding: 2rem;
+}
+.subtitle{
+    margin-top: 1rem;
+}
+.thumbnail{
+    margin: auto;
+    border-radius: 50%;
+    object-fit: cover;
+    height: 200px;
+    width: 200px;
 }
